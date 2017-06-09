@@ -1,0 +1,2 @@
+# MybatisDemo
+这是Mybatis连接mysql数据库进行操作的简单demo
